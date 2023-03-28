@@ -94,7 +94,7 @@ for (let i = 0; i < squares.length; i++) {
     squares[i] = `Het volume van ${squares[i]} is ${volume}`;
 }
 
-
+console.log(squares);
 
 
 
