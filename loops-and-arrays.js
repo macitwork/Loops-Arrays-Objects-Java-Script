@@ -96,8 +96,10 @@ for (let i = 0; i < squares.length; i++) {
 
 console.log(squares);
 
+
+
 //Dit script gebruikt een for-loop om door elk item in de array heen te gaan.
 // Voor elk item berekent het script het volume door de lengte,
 // breedte en hoogte allemaal gelijk te stellen aan de waarde van het item (aangezien elk item in de array een vierkant is).
 // Vervolgens wordt de waarde in de array overschreven met de zin die het volume bevat, zoals gevraagd in de opdracht.
-// Ten slotte wordt de bijgewerkte array afgedrukt met console.log(squares).
+// Ten slotte wordt de bijgewerkte array afgedrukt met console.log(squares).Dank.
