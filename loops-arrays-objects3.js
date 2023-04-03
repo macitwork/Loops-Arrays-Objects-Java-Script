@@ -12,7 +12,7 @@
 //  3581 = Oudwijk
 //  3583 = Schildersbuurt
 
-const students = [
+//const students = [
     {name: 'Mariska', city: 'Utrecht', zipCode: '3513', neighborhood: null},
     {name: 'Mehmet', city: 'Utrecht', zipCode: '3514', neighborhood: null},
     {name: 'Dennis', city: 'Utrecht', zipCode: '3572', neighborhood: null},
@@ -25,7 +25,7 @@ const students = [
     {name: 'Laura', city: 'Utrecht', zipCode: '3531', neighborhood: null},
     {name: 'Aicha', city: 'Utrecht', zipCode: '3514', neighborhood: null},
     {name: 'Karima', city: 'Utrecht', zipCode: '3531', neighborhood: null},
-];
+//];
 
 // Verwachte uitkomsten:
 // [
