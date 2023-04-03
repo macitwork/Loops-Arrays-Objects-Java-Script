@@ -31,7 +31,7 @@ for (let i = 1; i <= 5; i++) {
 // klaar!
 // ==========================================
 
-for (let i = 0; i < 4; i++) {
+for (let i = 3; i < 7; i++) {
     console.log("loop...");
 }
 console.log("klaar!");

@@ -5,7 +5,7 @@
 // ==========================================
 
 const names = ["Henk", "Piet", "Fred", "Joop"];
-
+const kats = [ "puma", "tiger", "lenox"]
 // Verwachtte uitkomsten:
 // Vóór het script zie je de originele waardes:
 // console.log(names) geeft: ["Henk", "Piet", "Fred", "Joop"]
@@ -16,11 +16,11 @@ const names = ["Henk", "Piet", "Fred", "Joop"];
 
 
 
-for (let i = 0; i < names.length; i++) {
-    names[i] = names[i] + "je";
+for (let i = 0; i < kats.length; i++) {
+    kats[i] = kats[i] + "je";
 }
 
-console.log(names); // ["Henkje", "Pietje", "Fredje", "Joopje"]
+console.log(kats); // ["Henkje", "Pietje", "Fredje", "Joopje"]
 
 //In deze code wordt een for-loop gebruikt om door de array heen te gaan,
 // te beginnen bij index 0 en te eindigen bij de laatste index (names.length - 1).
@@ -36,7 +36,7 @@ console.log(names); // ["Henkje", "Pietje", "Fredje", "Joopje"]
 // Zorg ervoor dat dit ook zou werken als de array wel 100 of 200 getallen zou bevatten!
 // ==========================================
 
-const numbers = [2, 4, 5, 29, 38];
+const numbers = [2, 4, 5, 29, 38, 87, 9000, 111, 86543296751];
 
 // Verwachtte uitkomsten:
 // Vóór het script zie je de originele waardes:
